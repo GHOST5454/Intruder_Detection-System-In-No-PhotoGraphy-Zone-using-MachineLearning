@@ -1,4 +1,4 @@
-This Project is based on intruder detection in no Photography Zone .
+This Project is based on intruder detection in no Photography Zone ./n
 It is trained with faster Rcnn_coco_v2_model.
 All the informations are given the folders.
   a)Run object_dwtection_main.py file to run the model.
